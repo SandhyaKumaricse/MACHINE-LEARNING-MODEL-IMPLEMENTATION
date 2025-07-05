@@ -61,3 +61,9 @@ All steps were implemented within a single notebook file for clarity and demonst
 ---
 
 This task reinforced essential skills in machine learning workflows: from text preprocessing to model training and evaluation. It showcased how simple yet effective techniques can be used to build predictive models in real-world scenarios.
+
+---
+
+# OUTPUT
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/7142cf10-4a90-4ac1-8115-b712a3110dc6" />
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/c4332629-7a43-41d8-92a1-bc2cfa41af9d" />
